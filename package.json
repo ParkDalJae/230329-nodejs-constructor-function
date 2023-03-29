@@ -1,0 +1,19 @@
+{
+  "name": "230329-nodejs-constructor-function",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ParkDalJae/230329-nodejs-constructor-function.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ParkDalJae/230329-nodejs-constructor-function/issues"
+  },
+  "homepage": "https://github.com/ParkDalJae/230329-nodejs-constructor-function#readme"
+}
